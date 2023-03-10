@@ -1,1 +1,1 @@
-hi2(remove)
+hi2(delete)
