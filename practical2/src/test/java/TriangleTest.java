@@ -15,6 +15,6 @@ public class TriangleTest {
 	public void newTriangleShouldHaveZeroB() {
 		Triangle triangle = new Triangle();
 		
-		Assert.assertEquals(1, triangle.getB(), 1e-9);
+		Assert.assertEquals(0, triangle.getB(), 1e-9);
 	}
 }
